@@ -22,7 +22,7 @@ msgid "Settings"
 msgstr "Настройки"
 
 msgctxt "#30001"
-msgid "Alternate render method"
+msgid "Read configuration"
 msgstr ""
 
 msgctxt "#30002"
@@ -30,11 +30,11 @@ msgid "Auto save/load states"
 msgstr ""
 
 msgctxt "#30003"
-msgid "Boot from CLI"
+msgid "Enable in-game mouse"
 msgstr ""
 
 msgctxt "#30004"
-msgid "Boot to OSD"
+msgid "Enable throttle"
 msgstr ""
 
 msgctxt "#30005"
@@ -42,11 +42,11 @@ msgid "Enable cheats"
 msgstr ""
 
 msgctxt "#30006"
-msgid "Hide gameinfo screen"
+msgid "Hide nag screen"
 msgstr ""
 
 msgctxt "#30007"
-msgid "Hide nag screen"
+msgid "Hide gameinfo screen"
 msgstr ""
 
 msgctxt "#30008"
@@ -54,13 +54,13 @@ msgid "Hide warnings screen"
 msgstr ""
 
 msgctxt "#30009"
-msgid "Enable in-game mouse"
+msgid "Alternate render method"
 msgstr ""
 
 msgctxt "#30010"
-msgid "Read configuration"
+msgid "Boot to OSD"
 msgstr ""
 
 msgctxt "#30011"
-msgid "Enable throttle"
+msgid "Boot from CLI"
 msgstr ""
