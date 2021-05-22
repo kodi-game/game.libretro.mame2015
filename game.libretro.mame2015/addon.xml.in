@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.mame2015"
 		name="Arcade (MAME 2015)"
-		version="0.160.0.8"
+		version="0.160.0.9"
 		provider-name="MAMEdev">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
