@@ -16,6 +16,16 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=(n==0) ? 0 : (n==1) ? 1 : (n==2) ? 2 : (n==3) ? 3 :(n==6) ? 4 : 5;\n"
 
+msgctxt "Addon Summary"
+msgid "Arcade (MAME 2015) 0.160"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "Late 2014/Early 2015 version of MAME (0.160-ish) for libretro. Compatible with MAME 0.160 sets.
+
+Supported files: .chd, .cmd, .zip, .7z"
+msgstr ""
+
 msgctxt "#30000"
 msgid "Settings"
 msgstr ""
