@@ -1,1 +1,1 @@
-mame2015 https://github.com/libretro/mame2015-libretro/archive/ef41361dc9c88172617f7bbf6cd0ead4516a3c3f.tar.gz
+mame2015 https://github.com/libretro/mame2015-libretro/archive/e6a7aa4d53726e61498f68d6b8e2c092a2169fa2.tar.gz
