@@ -3,7 +3,7 @@
 	<category label="30000">
 		<setting label="30001" type="select" id="mame2015_read_config" values="disabled|enabled" default="disabled"/>
 		<setting label="30002" type="select" id="mame2015_auto_save" values="disabled|enabled" default="disabled"/>
-		<setting label="30003" type="select" id="mame2015_mouse_enable" values="disabled|enabled" default="disabled"/>
+		<setting label="30003" type="select" id="mame2015_mouse_mode" values="none|lightgun|mouse" default="none"/>
 		<setting label="30004" type="select" id="mame2015_throttle" values="disabled|enabled" default="disabled"/>
 		<setting label="30005" type="select" id="mame2015_cheats_enable" values="disabled|enabled" default="disabled"/>
 		<setting label="30006" type="select" id="mame2015_hide_nagscreen" values="disabled|enabled" default="disabled"/>
