@@ -38,8 +38,8 @@ msgid "Auto save/load states"
 msgstr "Gem/indlæs automatisk tilstande"
 
 msgctxt "#30003"
-msgid "Enable in-game mouse"
-msgstr "Aktiver mus i spillet"
+msgid "XY device (Restart)"
+msgstr ""
 
 msgctxt "#30004"
 msgid "Enable throttle"
@@ -72,3 +72,7 @@ msgstr "Boot til OSD"
 msgctxt "#30011"
 msgid "Boot from CLI"
 msgstr "Boot fra CLI"
+
+#~ msgctxt "#30003"
+#~ msgid "Enable in-game mouse"
+#~ msgstr "Aktiver mus i spillet"

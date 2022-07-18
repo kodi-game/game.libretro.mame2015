@@ -38,8 +38,8 @@ msgid "Auto save/load states"
 msgstr "Cargar/guardar estados automáticamente"
 
 msgctxt "#30003"
-msgid "Enable in-game mouse"
-msgstr "Activar ratón de juego"
+msgid "XY device (Restart)"
+msgstr ""
 
 msgctxt "#30004"
 msgid "Enable throttle"
@@ -72,3 +72,7 @@ msgstr "Arrancar al OSD"
 msgctxt "#30011"
 msgid "Boot from CLI"
 msgstr "Arrancar desde línea de comandos"
+
+#~ msgctxt "#30003"
+#~ msgid "Enable in-game mouse"
+#~ msgstr "Activar ratón de juego"

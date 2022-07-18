@@ -37,7 +37,7 @@ msgid "Auto save/load states"
 msgstr ""
 
 msgctxt "#30003"
-msgid "Enable in-game mouse"
+msgid "XY device (Restart)"
 msgstr ""
 
 msgctxt "#30004"
