@@ -24,6 +24,7 @@
 		<summary lang="da_DK">Arcade (MAME 2015)</summary>
 		<summary lang="en_GB">Arcade (MAME 2015)</summary>
 		<summary lang="es_ES">Arcade (MAME 2015)</summary>
+		<summary lang="zh_CN">街机（MAME 2015）</summary>
 		<description lang="da_DK">Sen 2014/tidlig 2015 version af MAME (0.160-ish) til libretro. Kompatibel med MAME 0.160 sæt.</description>
 		<description lang="en_GB">Late 2014/Early 2015 version of MAME (0.160-ish) for libretro. Compatible with MAME 0.160 sets.</description>
 		<description lang="es_ES">Versión de finales de 2014/principios de 2015 de MAME (0.160-ish) para libretro. Compatible con los juegos de MAME 0.160.</description>
