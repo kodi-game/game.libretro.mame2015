@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <settings>
-	<category label="30000">
+	<category label="128">
 		<setting label="30001" type="select" id="mame2015_read_config" values="disabled|enabled" default="disabled"/>
 		<setting label="30002" type="select" id="mame2015_auto_save" values="disabled|enabled" default="disabled"/>
 		<setting label="30003" type="select" id="mame2015_mouse_mode" values="none|lightgun|mouse" default="none"/>
