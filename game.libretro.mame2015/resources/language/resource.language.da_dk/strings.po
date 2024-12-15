@@ -25,10 +25,6 @@ msgctxt "Addon Description"
 msgid "Late 2014/Early 2015 version of MAME (0.160-ish) for libretro. Compatible with MAME 0.160 sets."
 msgstr "Sen 2014/tidlig 2015 version af MAME (0.160-ish) til libretro. Kompatibel med MAME 0.160 sæt."
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Indstillinger"
-
 msgctxt "#30001"
 msgid "Read configuration"
 msgstr "Læs konfiguration"
@@ -72,6 +68,10 @@ msgstr "Boot til OSD"
 msgctxt "#30011"
 msgid "Boot from CLI"
 msgstr "Boot fra CLI"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Indstillinger"
 
 #~ msgctxt "#30003"
 #~ msgid "Enable in-game mouse"

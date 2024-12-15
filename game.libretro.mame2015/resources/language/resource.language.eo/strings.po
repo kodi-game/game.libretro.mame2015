@@ -25,10 +25,6 @@ msgctxt "Addon Description"
 msgid "Late 2014/Early 2015 version of MAME (0.160-ish) for libretro. Compatible with MAME 0.160 sets."
 msgstr ""
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Agordoj"
-
 msgctxt "#30001"
 msgid "Read configuration"
 msgstr ""
@@ -72,3 +68,7 @@ msgstr ""
 msgctxt "#30011"
 msgid "Boot from CLI"
 msgstr ""
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Agordoj"

@@ -25,10 +25,6 @@ msgctxt "Addon Description"
 msgid "Late 2014/Early 2015 version of MAME (0.160-ish) for libretro. Compatible with MAME 0.160 sets."
 msgstr "Versión de finales de 2014/principios de 2015 de MAME (0.160-ish) para libretro. Compatible con los juegos de MAME 0.160."
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Ajustes"
-
 msgctxt "#30001"
 msgid "Read configuration"
 msgstr "Leer configuración"
@@ -72,3 +68,7 @@ msgstr "Arrancar en OSD"
 msgctxt "#30011"
 msgid "Boot from CLI"
 msgstr "Arrancar desde CLI"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Ajustes"
