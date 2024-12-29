@@ -25,6 +25,10 @@ msgctxt "Addon Description"
 msgid "Late 2014/Early 2015 version of MAME (0.160-ish) for libretro. Compatible with MAME 0.160 sets."
 msgstr "Sen 2014/tidlig 2015 version af MAME (0.160-ish) til libretro. Kompatibel med MAME 0.160 sæt."
 
+msgctxt "Addon Lifecyclestate"
+msgid "MAME 2015 hasn't been updated since 2023 and is no longer available for use in Kodi."
+msgstr ""
+
 msgctxt "#30001"
 msgid "Read configuration"
 msgstr "Læs konfiguration"
