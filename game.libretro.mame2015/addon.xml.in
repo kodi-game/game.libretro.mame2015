@@ -30,5 +30,6 @@
 		<description lang="es_ES">Versión de finales de 2014/principios de 2015 de MAME (0.160-ish) para libretro. Compatible con los juegos de MAME 0.160.</description>
 		<description lang="zh_CN">2014年末/2015年初 libretro 版的 MAME（0.160-ish）。兼容MAME 0.160。</description>
 		<lifecyclestate type="broken" lang="en_GB">MAME 2015 hasn&apos;t been updated since 2023 and is no longer available for use in Kodi.</lifecyclestate>
+		<lifecyclestate type="broken" lang="es_ES">MAME 2015 no ha sido actualizado desde 2023 y ya no está disponible para su uso en Kodi.</lifecyclestate>
 	</extension>
 </addon>
