@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.mame2015\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2019-08-24 17:45i\n"
-"PO-Revision-Date: 2025-04-11 09:05+0000\n"
+"PO-Revision-Date: 2025-04-17 04:27+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-mame2015/sv_se/>\n"
 "Language: sv_se\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.10.4\n"
+"X-Generator: Weblate 5.11\n"
 
 msgctxt "Addon Summary"
 msgid "Arcade (MAME 2015)"
@@ -33,45 +33,48 @@ msgctxt "#30001"
 msgid "Read configuration"
 msgstr "Läs konfiguration"
 
+#, fuzzy
 msgctxt "#30002"
 msgid "Auto save/load states"
-msgstr ""
+msgstr "Automatisk lagring/laddning av tillstånd"
 
 msgctxt "#30003"
 msgid "XY device (Restart)"
-msgstr ""
+msgstr "XY-enhet (omstart)"
 
+#, fuzzy
 msgctxt "#30004"
 msgid "Enable throttle"
-msgstr ""
+msgstr "Aktivera gasreglage"
 
 msgctxt "#30005"
 msgid "Enable cheats"
-msgstr ""
+msgstr "Aktivera fusk"
 
+#, fuzzy
 msgctxt "#30006"
 msgid "Hide nag screen"
-msgstr ""
+msgstr "Dölj nag-skärmen"
 
 msgctxt "#30007"
 msgid "Hide gameinfo screen"
-msgstr ""
+msgstr "Dölj spelinfo-skärmen"
 
 msgctxt "#30008"
 msgid "Hide warnings screen"
-msgstr ""
+msgstr "Dölj varningar på skärmen"
 
 msgctxt "#30009"
 msgid "Alternate render method"
-msgstr ""
+msgstr "Alternativ renderingsmetod"
 
 msgctxt "#30010"
 msgid "Boot to OSD"
-msgstr ""
+msgstr "Starta till OSD"
 
 msgctxt "#30011"
 msgid "Boot from CLI"
-msgstr ""
+msgstr "Starta från CLI"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"
